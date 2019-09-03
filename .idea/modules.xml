@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EduToolsExample.iml" filepath="$PROJECT_DIR$/.idea/EduToolsExample.iml" group="EduToolsExample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/lesson1-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/lesson1-task1.iml" group="EduToolsExample/lesson1-task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="EduToolsExample/util" />
+    </modules>
+  </component>
+</project>
